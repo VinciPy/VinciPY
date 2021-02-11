@@ -23,7 +23,7 @@
 
 
 <h3 align="center">Linkedin</h3>
-<p color="white" align="center">
+<p style="white" align="center">
 <a href="https://linkedin.com/in/vinicius-santana-9180431a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius-santana-9180431a3/" height="30" width="40" /></a>
 </p>
 
