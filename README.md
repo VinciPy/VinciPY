@@ -19,8 +19,8 @@
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem:: ⤵️
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/vinicius-santana-9180431a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius-santana-9180431a3/" height="30" width="40" /></a>
 </p>
 
