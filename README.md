@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🌈 Habilidades: <strong>PHP, Docker, Laravel, Python, e Django.</strong>
+  ⌨️ Habilidades: <strong>PHP, Docker, Laravel, Python, e Django.</strong>
 </p>
 
 <p align="left">
