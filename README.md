@@ -1,4 +1,4 @@
-<img src="illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Olá pessoa anonima, meu nome é Vinicius, sou desenvolvedor de <strong>Front-End/UI/UX Designer</strong> e Desenvolvedor <strong>Back-End Django e Laravel</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
