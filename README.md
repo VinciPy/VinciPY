@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem:: ⤵️\
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem:: ⤵️
 </p>
 
 
