@@ -1,4 +1,6 @@
-<img src="ilustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=6E58F7&center=true&vCenter=true&multiline=true&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
+
+<img src="ilustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="IlustrationVinciOPy">
 
 <p align="left"> 
  Olá pessoa anonima, meu nome é Vinicius, sou Desenvolvedor BackEnd DevOps. Estou disponível para freelas, caso precise contratar meu serviço entre em contato.
