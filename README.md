@@ -27,7 +27,7 @@
 
 <p align='right'>&nbsp;
 
-<img align="right" margin="2px" src="https://github-readme-stats.vercel.app/api?username=vincipy&show_icons=true&locale=en" alt="vincipy" /></p>
+<img align="right" margin="2px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vincipy&show_icons=true&locale=en&theme=synthwave" alt="vincipy" /></p>
 
 <h3 align="left">Linkedin</h3>
 <p style="white" align="left">
